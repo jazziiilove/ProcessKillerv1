@@ -1,0 +1,15 @@
+C:\VSWorks\Oldurucu\Oldurucu\obj\Debug\ResolveAssemblyReference.cache
+C:\VSWorks\Oldurucu\Oldurucu\obj\Debug\Oldurucu.Form1.resources
+C:\VSWorks\Oldurucu\Oldurucu\obj\Debug\Oldurucu.Properties.Resources.resources
+C:\VSWorks\Oldurucu\Oldurucu\obj\Debug\Oldurucu.csproj.GenerateResource.Cache
+C:\VSWorks\Oldurucu\Oldurucu\bin\Debug\Oldurucu.exe
+C:\VSWorks\Oldurucu\Oldurucu\bin\Debug\Oldurucu.pdb
+C:\VSWorks\Oldurucu\Oldurucu\obj\Debug\Oldurucu.exe
+C:\VSWorks\Oldurucu\Oldurucu\obj\Debug\Oldurucu.pdb
+C:\Users\Baran.Topal\Documents\C#Projects\TinKiller\Oldurucu\Oldurucu\obj\Debug\Oldurucu.exe
+C:\Users\Baran.Topal\Documents\C#Projects\TinKiller\Oldurucu\Oldurucu\obj\Debug\Oldurucu.pdb
+C:\Users\Baran.Topal\Documents\C#Projects\TinKiller\Oldurucu\Oldurucu\bin\Debug\Oldurucu.exe
+C:\Users\Baran.Topal\Documents\C#Projects\TinKiller\Oldurucu\Oldurucu\bin\Debug\Oldurucu.pdb
+C:\Users\Baran.Topal\Documents\C#Projects\TinKiller\Oldurucu\Oldurucu\obj\Debug\Oldurucu.Form1.resources
+C:\Users\Baran.Topal\Documents\C#Projects\TinKiller\Oldurucu\Oldurucu\obj\Debug\Oldurucu.Properties.Resources.resources
+C:\Users\Baran.Topal\Documents\C#Projects\TinKiller\Oldurucu\Oldurucu\obj\Debug\Oldurucu.csproj.GenerateResource.Cache
